@@ -1,2 +1,2 @@
 # **Library Management System**
-
+The Library Management System is an innovative solution to efficiently manage and track the records and data of all the transaction. The system helps the librarian to reliably handle the library with the help of web based- Library Management System by eliminate the convectional management system with the help of Backend Data storage facility to store the daily transaction of books and respective.
